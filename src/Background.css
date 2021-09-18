@@ -1,0 +1,20 @@
+body {
+    background-color: #df9115;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    min-height: 75vh;
+    margin: 0;
+}
+
+.gameBackground {
+  background-color: #df9115;
+}
+
+.gameTitle {
+  margin-bottom: 0;
+  margin-top: 0;
+}
