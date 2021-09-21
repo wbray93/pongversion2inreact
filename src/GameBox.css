@@ -5,3 +5,16 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.pongPaddleOne {
+    display: none;
+}
+
+.pongPaddleTwo {
+    display: none;
+}
+
+.pongGameBall {
+    border-radius: 50%;
+    display: none;
+}
