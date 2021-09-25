@@ -1,6 +1,6 @@
 import React from "react";
 import Background from './Background';
-import GameBox from './GameBox';
+import GameBox from './GameBox/GameBox';
 
 function App() {
   return (

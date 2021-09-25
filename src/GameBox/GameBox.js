@@ -7,6 +7,8 @@ export default function GameBox() {
             <img className="pongPaddleTwo" src="/Images/bluepaddleimage.png" alt=" "/>
             <img className="pongPaddleOne" src="/Images/paddleOne.svg" alt=" "/>
             <img className="pongGameBall" src="/Images/ponggameball.png" alt=" " />
+
+            
         </>
     )
 }
